@@ -1,0 +1,26 @@
+pretest sum of all difference / pretest questions :
+2.525
+piano : 2.95
+singer : 2.4
+vocal : 2.225
+
+posttest sum of all difference / posttest questions :
+1.633
+piano : 1.814
+singer : 1.757
+vocal : 1.328
+
+
+
+pretest sum of all binary difference / pretest questions :
+0.3
+piano : 13/40 = 0.325
+singer : 9/40 = 0.225
+vocal : 14/40 = 0.35
+
+posttest sum of all binary difference / posttest questions :
+0.357
+piano : 23/70 = 0.328
+singer : 18/70 = 0.257
+vocal : 34/70 =0.78
+
